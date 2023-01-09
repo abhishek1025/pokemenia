@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokemenia/static/css/main.a8f8c4c5.css",
+    "main.js": "/pokemenia/static/js/main.78a04d7f.js",
+    "index.html": "/pokemenia/index.html",
+    "main.a8f8c4c5.css.map": "/pokemenia/static/css/main.a8f8c4c5.css.map",
+    "main.78a04d7f.js.map": "/pokemenia/static/js/main.78a04d7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8f8c4c5.css",
+    "static/js/main.78a04d7f.js"
+  ]
+}
